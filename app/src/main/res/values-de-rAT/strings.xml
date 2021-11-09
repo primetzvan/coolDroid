@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">CoolDroid</string>
-  <string name="txt_dont_touch">Finger weh vom Droiden!</string>
-  <string name="once">Du hast ihn einmal berührt!</string>
-  <string name="twice">Du hast ihn zwei mal berührt!</string>
-  <string name="text_view_numbers">Du hast ihn %1$d mal berührt!</string>
+  <string name="txt_dont_touch">Finga weg vom Droiden!</string>
+  <string name="once">Du host nan a moi druckt!</string>
+  <string name="twice">Du host nan zwa moi druckt!</string>
+  <string name="text_view_numbers">Du host nan %1$d moi druckt!</string>
 
 </resources>
